@@ -1,0 +1,8 @@
+NUM_CLASSES=4
+IMAGE_SIZE=224
+IMAGE_PIXELS=224*224
+INPUT_SIZE=224
+TRAIN_FILE='train.tfrecords'
+VALIDATION_FILE='validation.tfrecords'
+
+TEST_FILE='test.tfrecords'
