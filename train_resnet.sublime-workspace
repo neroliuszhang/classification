@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"val_name"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"read",
+				"read_tfrecord"
+			],
+			[
+				"d",
+				"disp_tfrecords"
+			],
+			[
+				"re",
+				"resize_width"
+			],
+			[
+				"tra",
+				"train_file"
+			],
+			[
+				"in",
+				"int32"
+			],
+			[
+				"res",
+				"reshape"
+			],
+			[
+				"de",
+				"decode_raw"
+			],
+			[
+				"F",
+				"FixedLenFeature"
+			],
+			[
+				"fil",
+				"filename_queue"
+			],
+			[
+				"se",
+				"serialized_example"
+			],
+			[
+				"f",
+				"filename_queuetemp"
+			],
+			[
+				"strin",
+				"string_input_producer"
+			],
+			[
+				"file",
+				"filename_queue"
+			],
+			[
+				"resi",
+				"resize_width"
+			],
+			[
+				"cs",
+				"csvfile"
+			],
+			[
+				"su",
+				"subdir"
+			],
+			[
+				"sub",
+				"subdirc"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"csvfi",
+				"csvfile_val"
+			],
+			[
+				"csv",
+				"csvfile_train"
+			],
+			[
+				"subdi",
+				"subdir"
+			],
+			[
+				"dir",
+				"dirpath_train"
+			],
+			[
+				"fli",
+				"fliped_img"
+			],
+			[
+				"temp",
+				"tempimg"
+			],
+			[
+				"di",
+				"dirc"
+			],
+			[
+				"subd",
+				"subdir"
+			],
+			[
+				"shu",
+				"shutil"
+			],
+			[
+				"train",
+				"train_path"
+			],
+			[
+				"tr",
+				"train_path"
+			],
+			[
+				"sh",
+				"shutil"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"c",
+				"copyfile"
+			],
+			[
+				"new_",
+				"new_filename"
+			],
+			[
+				"ss",
+				"sssubdirc_name"
+			],
+			[
+				"sss",
+				"sssubdirc_name"
+			],
+			[
+				"ssu",
+				"sssubdirc"
+			],
+			[
+				"ssub",
+				"ssubdir"
+			],
+			[
+				"hei",
+				"height_binary"
+			],
+			[
+				"write",
+				"writeCount"
+			],
+			[
+				"da",
+				"datum"
+			],
+			[
+				"i",
+				"img4ch"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"joint_ot",
+				"joint_other"
+			],
+			[
+				"joint",
+				"joints"
+			],
+			[
+				"sca",
+				"scale_provided_other_binary"
+			],
+			[
+				"ob",
+				"objpos_binary"
+			],
+			[
+				"obj",
+				"objpos_binary"
+			],
+			[
+				"scal",
+				"scale_provided_other"
+			],
+			[
+				"cl",
+				"clidx"
+			],
+			[
+				"floa",
+				"float2bytes"
+			],
+			[
+				"tot",
+				"totalWriteCount_binary"
+			],
+			[
+				"ran",
+				"random_order"
+			],
+			[
+				"num",
+				"numSample"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/goerlab/Welder_detection/code/manage_dataset/csv2tfrecord.py",
+		"/home/goerlab/Welder_detection/code/manage_dataset/img2csv.py",
+		"/home/goerlab/Welder_detection/code/manage_dataset/move_files.py",
+		"/home/goerlab/Welder_detection/code/manage_dataset/set_ttset.py",
+		"/home/goerlab/Welder_detection/code/manage_dataset/data_augmentation.py",
+		"/home/goerlab/Liuhongkun/ai_challenger_keypoint/code/training/setLayers.py",
+		"/home/goerlab/Liuhongkun/ai_challenger_keypoint/code/training/genLMDB2.py",
+		"/home/goerlab/Liuhongkun/ai_challenger_keypoint/code/training/genLMDB.py",
+		"/home/goerlab/Liuhongkun/Realtime_Multi-Person_Pose_Estimation-master/training/genLMDB.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"csv",
+			"shutil",
+			"outCH",
+			"17",
+			"validation",
+			"img_idx",
+			"COCO",
+			"validation",
+			"num_keypoint",
+			"segment_area",
+			"mask"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "train_resnet.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
